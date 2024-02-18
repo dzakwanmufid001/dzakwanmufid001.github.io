@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome!
 
-### More Information
+I'm Mufid Dzakwan Arro'if, the person behind this blog (dzakwanmufid).
 
-A place to include any other types of information that you'd like to include about yourself.
+### Basic Information
+
+I'm a high school student in Indonesia, currently in grade 10 (1). More informations coming soon!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dzakwanmufid001@gmail.com](mailto:dzakwanmufid01@gmail.com)
